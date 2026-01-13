@@ -191,8 +191,8 @@ Política IAM adicional que se adjunta directamente al CloudAltioRole, garantiza
 │  ┌───────────────────────────────────────────────────────┐  │
 │  │  BCM Data Exports                                     │  │
 │  │  Tag: Env:CloudAltio                                  │  │
-│  │  - Export: focus-cloudaltio-{account-id}             │  │
-│  │  - Format: FOCUS 1.2 → Parquet (Snappy)              │  │
+│  │  - Export: focus-cloudaltio-{account-id}              │  │
+│  │  - Format: FOCUS 1.2 → Parquet (Snappy)               │  │
 │  │  - Frequency: Daily (Synchronous)                     │  │
 │  └───────────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────────┘
