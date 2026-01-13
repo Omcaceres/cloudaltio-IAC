@@ -1,4 +1,4 @@
-#AWS - Guía de Despliegue: CloudAltio Integration Stack v1.3
+# AWS - Guía de Despliegue: CloudAltio Integration Stack v1.3
 
 ## Descripción General
 
